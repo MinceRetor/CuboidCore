@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/GIT/CuboidCore/CuboidCore/spigot-api-1.16.5-R0.1-20210608.042337-97-shaded.jar"/>
+	<classpathentry kind="lib" path="D:/GIT/CuboidCore/CuboidCore/Vault.jar"/>
+	<classpathentry kind="lib" path="D:/GIT/CuboidCore/CuboidCore/worldguard-bukkit-7.0.5-dist.jar"/>
+	<classpathentry kind="lib" path="D:/GIT/CuboidCore/CuboidCore/worldedit-bukkit-7.2.5-dist.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

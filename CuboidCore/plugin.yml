@@ -1,0 +1,12 @@
+name: CuboidCore
+main: com.MinceRetor.CuboidCore.CuboidCore
+version: 1.0
+api-version: 1.13
+author: MinceRetor
+depend: [Vault, WorldEdit, WorldGuard]
+loadbefore: [Vault, WorldEdit, WorldGuard]
+commands:
+    cc:
+      usage: /<command> [create [Owner Name,region Name],remove,select,unselect,info]
+      permission: cuboidcore.cc
+      permission-message: You do not have permission!
